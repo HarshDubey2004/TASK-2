@@ -38,6 +38,7 @@ header
     padding: 22px 15%;
     border-bottom: 1px solid transparent;
     transition: all .45s ease;
+    background-color: #d8b485;
 }
 .logo
 {
